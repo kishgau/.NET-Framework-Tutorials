@@ -5,3 +5,10 @@ C:\Users\kisho\source\repos\Session3\Inheritence\obj\Debug\Inheritence.csprojAss
 C:\Users\kisho\source\repos\Session3\Inheritence\obj\Debug\Inheritence.csproj.CoreCompileInputs.cache
 C:\Users\kisho\source\repos\Session3\Inheritence\obj\Debug\Inheritence.exe
 C:\Users\kisho\source\repos\Session3\Inheritence\obj\Debug\Inheritence.pdb
+G:\C#\Sessions\Session3\Inheritence\bin\Debug\Inheritence.exe.config
+G:\C#\Sessions\Session3\Inheritence\bin\Debug\Inheritence.exe
+G:\C#\Sessions\Session3\Inheritence\bin\Debug\Inheritence.pdb
+G:\C#\Sessions\Session3\Inheritence\obj\Debug\Inheritence.csprojAssemblyReference.cache
+G:\C#\Sessions\Session3\Inheritence\obj\Debug\Inheritence.csproj.CoreCompileInputs.cache
+G:\C#\Sessions\Session3\Inheritence\obj\Debug\Inheritence.exe
+G:\C#\Sessions\Session3\Inheritence\obj\Debug\Inheritence.pdb

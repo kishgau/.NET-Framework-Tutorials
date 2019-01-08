@@ -11,7 +11,11 @@ namespace AssignmentQ3
         static void Main(string[] args)
         {
             // Create object of register
+            Register reg = new Register();
 
+            //studnet objects
+            Student std1 = new Student("", 2, "", 12);
+            reg.StudentList.Add(std1); //stuent obj)
         }
     }
 
@@ -19,8 +23,10 @@ namespace AssignmentQ3
     class Student {
 
 
-        public string Name;
-        public int number;
+        public string Name { get; set; }
+        
+
+        private int number;
         public string address;
         public int standard;
 
@@ -28,17 +34,22 @@ namespace AssignmentQ3
         public Student(string Name, int Number, string Address, int Standard)
         {
             this.Name = Name;
-            this.Number = Number;
-            this.Address = Address;
-            this.Standard = Standard;
+            this.number = Number;
+            this.address = Address;
+            this.standard = Standard;
         }
 
     }
 
     class Register {
-        List<Student> StudentList = new List<Student>();
+        public List<Student> StudentList;
 
-        public void Search(int number) {
+        public Register()
+        {
+            StudentList = new List<Student>();
+        }
+
+        public string Search(int number) {
             return 1;  
 
 

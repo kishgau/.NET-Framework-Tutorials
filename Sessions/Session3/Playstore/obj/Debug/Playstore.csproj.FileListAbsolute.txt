@@ -1,0 +1,7 @@
+G:\C#\Sessions\Session3\Playstore\bin\Debug\Playstore.exe.config
+G:\C#\Sessions\Session3\Playstore\bin\Debug\Playstore.exe
+G:\C#\Sessions\Session3\Playstore\bin\Debug\Playstore.pdb
+G:\C#\Sessions\Session3\Playstore\obj\Debug\Playstore.csprojAssemblyReference.cache
+G:\C#\Sessions\Session3\Playstore\obj\Debug\Playstore.csproj.CoreCompileInputs.cache
+G:\C#\Sessions\Session3\Playstore\obj\Debug\Playstore.exe
+G:\C#\Sessions\Session3\Playstore\obj\Debug\Playstore.pdb

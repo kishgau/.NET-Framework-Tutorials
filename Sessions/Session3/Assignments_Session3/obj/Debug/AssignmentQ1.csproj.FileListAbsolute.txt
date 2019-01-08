@@ -1,0 +1,7 @@
+G:\C#\Sessions\Session3\Assignments_Session3\bin\Debug\Assignments_Session3.exe.config
+G:\C#\Sessions\Session3\Assignments_Session3\bin\Debug\Assignments_Session3.exe
+G:\C#\Sessions\Session3\Assignments_Session3\bin\Debug\Assignments_Session3.pdb
+G:\C#\Sessions\Session3\Assignments_Session3\obj\Debug\AssignmentQ1.csprojAssemblyReference.cache
+G:\C#\Sessions\Session3\Assignments_Session3\obj\Debug\AssignmentQ1.csproj.CoreCompileInputs.cache
+G:\C#\Sessions\Session3\Assignments_Session3\obj\Debug\Assignments_Session3.exe
+G:\C#\Sessions\Session3\Assignments_Session3\obj\Debug\Assignments_Session3.pdb

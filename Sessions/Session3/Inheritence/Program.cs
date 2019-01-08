@@ -10,69 +10,68 @@ namespace Inheritence
     {
         static void Main(string[] args)
         {
-
             Vehicle v1 = new Vehicle();
-
+            Vehicle v2 = new Vehicle("White");
+            Console.WriteLine("");
             Car c1 = new Car();
+            Console.WriteLine("");
+            Car c2 = new Car(1000);
+            Console.WriteLine("");
 
-            Bike b1 = new Bike();
+            Car c3 = new Car(1000, "Red");
 
-            v1.setColor("orange");
-            b1.setColor("grey");
-            c1.setColor("white");
-
-            List<int> i = new List<int>();
-            i.
-            v1.
-
-            //v1.display();
-
-            //b1.display();
-
-
-            v1.temp();
         }
     }
 
-    class Vehicle
+    class Vehicle     // super class, parent class, Base class
     {
-        public int numofTyres { set; get; }
-    
         public string color { get; set; }
 
-        public string getColor()
+
+        public Vehicle()
         {
-            return this.color ;
+            Console.WriteLine("Vehicle Constructor");
         }
-        public void setColor(string color)
+        public Vehicle(String color)
         {
             this.color = color;
+            Console.WriteLine("Vehicle Constructor with color");
         }
 
-        private void display()
-        {
-            Console.WriteLine(this.color);
-        }
-        public void temp()
-        {
-            display();
-        }
     }
 
-    class Car : Vehicle
+    class Car : Vehicle   // Child class, Derived  Class, subclass
     {
-        public Boolean airbags;
+        public int cc { get; set; }
+
+
+        public Car()
+        {
+            Console.WriteLine("Car Constructor");
+        }
+
+        public Car(int cc)
+        {
+            this.cc = cc;
+            Console.WriteLine("Car Constructor with cc argument");
+        }
+
+        public Car(int cc, string color) :base(color)
+        {
+            this.cc = cc;
+            Console.WriteLine("Car Constructor with cc & color");
+        }
 
      
     }
 
 
-    class Bike : Vehicle
-    {
-        public Boolean diskbrakes;
+    //class Bike : Vehicle   // Child class, Derived class
+    //{
+    //    public Boolean diskbrakes;
 
 
-    }
+    //}
 
 
 }

@@ -1,0 +1,7 @@
+G:\C#\Sessions\Session3\Session4\bin\Debug\Session4.exe.config
+G:\C#\Sessions\Session3\Session4\bin\Debug\Session4.exe
+G:\C#\Sessions\Session3\Session4\bin\Debug\Session4.pdb
+G:\C#\Sessions\Session3\Session4\obj\Debug\Session4.csprojAssemblyReference.cache
+G:\C#\Sessions\Session3\Session4\obj\Debug\Session4.csproj.CoreCompileInputs.cache
+G:\C#\Sessions\Session3\Session4\obj\Debug\Session4.exe
+G:\C#\Sessions\Session3\Session4\obj\Debug\Session4.pdb

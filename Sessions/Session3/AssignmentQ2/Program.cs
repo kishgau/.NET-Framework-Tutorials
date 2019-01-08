@@ -21,7 +21,7 @@ namespace AssignmentQ2
             for (int counter = 0; counter <= 25 ; counter++)
             {
                 array_nums[counter] = counter + 1;
-                array_chars[counter] = (char) (97 + counter);
+                array_chars[counter] = (char) (97 + counter);// explicit typecastinAQ
                                  
 
             }
@@ -45,6 +45,9 @@ namespace AssignmentQ2
                 }
             }
 
+            List<string> list1 = new List<string>(;
+
+          
 
 
             foreach (KeyValuePair<int,char> kvp in dict )
