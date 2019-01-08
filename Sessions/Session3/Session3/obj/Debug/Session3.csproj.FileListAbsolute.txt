@@ -1,0 +1,7 @@
+C:\Users\kisho\source\repos\Session3\Session3\bin\Debug\Session3.exe.config
+C:\Users\kisho\source\repos\Session3\Session3\bin\Debug\Session3.exe
+C:\Users\kisho\source\repos\Session3\Session3\bin\Debug\Session3.pdb
+C:\Users\kisho\source\repos\Session3\Session3\obj\Debug\Session3.csprojAssemblyReference.cache
+C:\Users\kisho\source\repos\Session3\Session3\obj\Debug\Session3.csproj.CoreCompileInputs.cache
+C:\Users\kisho\source\repos\Session3\Session3\obj\Debug\Session3.exe
+C:\Users\kisho\source\repos\Session3\Session3\obj\Debug\Session3.pdb

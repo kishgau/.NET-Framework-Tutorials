@@ -1,0 +1,7 @@
+C:\Users\kisho\source\repos\Session3\Inheritence\bin\Debug\Inheritence.exe.config
+C:\Users\kisho\source\repos\Session3\Inheritence\bin\Debug\Inheritence.exe
+C:\Users\kisho\source\repos\Session3\Inheritence\bin\Debug\Inheritence.pdb
+C:\Users\kisho\source\repos\Session3\Inheritence\obj\Debug\Inheritence.csprojAssemblyReference.cache
+C:\Users\kisho\source\repos\Session3\Inheritence\obj\Debug\Inheritence.csproj.CoreCompileInputs.cache
+C:\Users\kisho\source\repos\Session3\Inheritence\obj\Debug\Inheritence.exe
+C:\Users\kisho\source\repos\Session3\Inheritence\obj\Debug\Inheritence.pdb
