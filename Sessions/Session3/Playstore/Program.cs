@@ -79,7 +79,7 @@ namespace Playstore
             }
             else
             {
-                return false;
+                throw new Exception(" ");
             }
             return true;
         }

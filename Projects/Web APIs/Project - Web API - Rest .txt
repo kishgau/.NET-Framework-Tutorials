@@ -1,0 +1,17 @@
+.NET Framework 4.6.2
+
+Objective : Creata a RestFul webservices to expose 
+Concepts: 
+
+1. Use entity pattern to import database - CaliforniaDb
+2. Create RestFul webserivces to define 
+     GET : \tours  - returns all tour in JSON format
+     GET:  \reservation\{} - returns all resevation
+	 POST: Create tour ID :   
+     	 ,[Name]
+         ,[Description]
+         ,[Price]  - validate Price is non Zero or negative
+         ,[Notes]
+3.Secure API using basic authenticatoin ( base64)
+4. Add XUnit test cases
+5. Discuss TDD/BDD. 

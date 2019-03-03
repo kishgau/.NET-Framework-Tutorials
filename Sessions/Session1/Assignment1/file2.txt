@@ -1,0 +1,16 @@
+G:\C#\Sessions\Session1\Assignment1\Algebra
+G:\C#\Sessions\Session1\Assignment1\CircleArea
+G:\C#\Sessions\Session1\Assignment1\University
+G:\C#\Sessions\Session1\Assignment1\UserDetails
+G:\C#\Sessions\Session1\Assignment1\Algebra\Properties
+G:\C#\Sessions\Session1\Assignment1\CircleArea\Properties
+G:\C#\Sessions\Session1\Assignment1\University\Properties
+G:\C#\Sessions\Session1\Assignment1\UserDetails\Properties
+G:\C#\Sessions\Session1\Assignment1\Algebra
+G:\C#\Sessions\Session1\Assignment1\CircleArea
+G:\C#\Sessions\Session1\Assignment1\University
+G:\C#\Sessions\Session1\Assignment1\UserDetails
+G:\C#\Sessions\Session1\Assignment1\Algebra\Properties
+G:\C#\Sessions\Session1\Assignment1\CircleArea\Properties
+G:\C#\Sessions\Session1\Assignment1\University\Properties
+G:\C#\Sessions\Session1\Assignment1\UserDetails\Properties
