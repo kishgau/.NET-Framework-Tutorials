@@ -12,6 +12,9 @@ Concepts:
          ,[Description]
          ,[Price]  - validate Price is non Zero or negative
          ,[Notes]
-3.Secure API using basic authenticatoin ( base64)
-4. Add XUnit test cases
-5. Discuss TDD/BDD. 
+3.Secure API using basic authentication ( base64)
+4. Add NUnit/XUnit test cases ( AAA)
+ 
+
+Follow up questions:
+IQueryable vs IEnumerable

@@ -19,7 +19,7 @@ namespace TourCalifornia.Controllers
         // GET: api/Tours
         public List<string> GetTours()
         {
-              return db.Tours.Select(p => p.Name).ToList();
+            return db.Tours.Select(p => p.Name).ToList();
         }
 
         // GET: api/Tours/5
