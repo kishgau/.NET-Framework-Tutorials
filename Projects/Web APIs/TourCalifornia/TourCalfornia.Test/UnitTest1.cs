@@ -15,7 +15,7 @@ namespace TourCalfornia.Test
 
             int act = 4;
             ReservationsController reservationsController = new ReservationsController();
-            reservationsController.GetReservations();
+            //reservationsController.GetReservations();
 
 
         Assert.AreEqual(exp, act);

@@ -6,20 +6,34 @@ using System.Data.Entity.Infrastructure;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
+using System.Threading;
 using System.Web.Http;
 using System.Web.Http.Description;
 using TourCalifornia.EntityFramework;
 
 namespace TourCalifornia.Controllers
 {
+    [BasicAuthentication]
     public class ToursController : ApiController
     {
         private CaliforniaEF db = new CaliforniaEF();
 
         // GET: api/Tours
-        public List<string> GetTours()
+        public IHttpActionResult GetTours()
         {
-            return db.Tours.Select(p => p.Name).ToList();
+            string username = Thread.CurrentPrincipal.Identity.Name;
+                
+
+            if (username == "user@abc")
+
+            {
+                var res = db.Tours.Select(p => p.Name).ToList();
+                return Ok(res);
+            }
+
+            else
+                return NotFound();
+
         }
 
         // GET: api/Tours/5

@@ -1,5 +1,19 @@
 .NET Framework 4.6.2
 
+Session 5+
+
+- Linq
+- Consume REST API
+- WCF
+- Oauth2
+- vs creating API in .net core
+
+
+
+
+
+
+---------------- Session 1,2,3-------------------------
 Objective : Creata a RestFul webservices to expose 
 Concepts: 
 
@@ -15,6 +29,8 @@ Concepts:
 3.Secure API using basic authentication ( base64)
 4. Add NUnit/XUnit test cases ( AAA)
  
+ 
+5.  
 
 Follow up questions:
 IQueryable vs IEnumerable
